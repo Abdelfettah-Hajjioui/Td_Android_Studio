@@ -1,0 +1,4 @@
+com/example/dice_roller/MainActivity.java
+ com.example.dice_roller.MainActivity
+com/example/dice_roller/BuildConfig.java
+ com.example.dice_roller.BuildConfig
